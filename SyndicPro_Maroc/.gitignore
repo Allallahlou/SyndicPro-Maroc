@@ -1,0 +1,15 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+.idea/
+.vscode/
+*.log
+*.db
+*.sqlite
+*.sqlite3
